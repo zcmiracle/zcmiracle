@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I walk slowly, but I never walk backwards 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zcmiracle)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmiracle&show_icons=true&theme=radical)
 
 <p float="right">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=zcmiracle&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" /> -->
