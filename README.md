@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 发现新大陆 👋
 
 <!--
 **zcmiracle/zcmiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
